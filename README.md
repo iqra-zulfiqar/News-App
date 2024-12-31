@@ -1,7 +1,7 @@
-**News Magazine**
+**News Magazine**<br/>
 A React-based news application that fetches and displays the latest news headlines using the News API. The app allows users to select different news categories and view articles tailored to their preferences.
 
-**Features**
+**Features**<br/>
 Dynamic News Categories: Choose from various categories like general, business, sports, etc.
 
 Live Updates: Fetches the latest articles from the News API based on the selected category.
