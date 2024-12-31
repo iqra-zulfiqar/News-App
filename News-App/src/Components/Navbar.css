@@ -1,0 +1,10 @@
+nav ul li{
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+nav ul li:hover{
+    color: white;
+    font-size: 18px;
+}
